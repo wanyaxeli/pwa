@@ -1,6 +1,6 @@
 {
   "short_name": "PataRoom",
-  "name": "Pata Biz Room",
+  "name": "Pata Room Biz" ,
   "icons": [
     {
       "src": "favicon.ico",
@@ -13,7 +13,13 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose":"maskable"
+    },
+    {
+      "src": "maskable.png",
       "type": "image/png",
       "sizes": "512x512"
     }
